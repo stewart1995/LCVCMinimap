@@ -7,7 +7,7 @@ Compatible with all centered versions of Liberty City for FiveM. Replace your mi
 
 |                                         |                                |
 |-------------------------------------|----------------------------|
-| Code is accessible       | Yes                 |
+| Code is accessible       | No                |
 | Subscription-based      | No                 |
 | Lines (approximately)  | 1000             |
 | Requirements                | none            |
